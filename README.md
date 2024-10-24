@@ -1,2 +1,1 @@
-# Ollama-E
-Ollama-E : Everywhere
+# ComposeIA - Assistant de rédaction gratuit et illimité
