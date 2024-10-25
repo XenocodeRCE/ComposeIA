@@ -2,7 +2,7 @@
 
 ## Présentation
 
-CompoAI est une extension de navigateur web qui permet d'utiliser l'intelligence artificielle (IA) n'importe où via **groQ**. Je l'ai développer pour utiliser Notion et l'I.A. gratuitement sans limite.
+CompoAI est une extension de navigateur web qui permet d'utiliser l'intelligence artificielle (IA) n'importe où via **groQ**. Je la développe pour utiliser Notion et l'I.A. gratuitement sans limite.
 
 ![](https://github.com/XenocodeRCE/ComposeIA/blob/main/use-case.gif?raw=true)
 
